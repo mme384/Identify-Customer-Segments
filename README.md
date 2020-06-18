@@ -43,7 +43,7 @@ The datasets are not included as these are property of Bertelsmann Arvato Analyt
 
 
 ## Python Version & IDE
-- Python Version: 3.7
+- Python Version: 3.6
 - IDE: Jupyter Notebook IDE hosted on Udacity Web Server.
 
 
