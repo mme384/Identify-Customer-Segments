@@ -35,7 +35,6 @@ Data clustering project using scikit-learn. Developed as final project in partia
 ## Project Files
 - README.md: Project README
 - Identify_Customer_Segments.ipynb: Jupyter Notebook project file containing the project
-- Identify_Customer_Segments.html: html export of the project file
 
 
 ## Datasets
